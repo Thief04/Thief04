@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Thief04 (Rohan Wessels)
+- 👀 I’m interested in Data Science and Programming
+- 🌱 I’m currently studying Engineering at the University of Waterloo
+- 📫 You can contact me via LinkedIn at https://www.linkedin.com/in/rohan-wessels-46a697245/
